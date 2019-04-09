@@ -1,0 +1,21 @@
+{
+  "name": "use-request-hook-example",
+  "homepage": "https://tb.github.io/use-request-hook",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "0.18.0",
+    "prop-types": "^15.6.2",
+    "react": "link:../node_modules/react",
+    "react-dom": "link:../node_modules/reac-dom",
+    "react-scripts": "^1.1.4",
+    "use-request-hook": "link:.."
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

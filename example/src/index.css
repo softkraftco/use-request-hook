@@ -1,0 +1,16 @@
+body {
+  padding: 1rem;
+  font-family: sans-serif;
+}
+
+label {
+  line-height: 2rem;
+}
+
+button, input {
+  font-size: 1rem;
+}
+
+button {
+  margin: 0.5rem 0;
+}
